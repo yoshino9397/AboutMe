@@ -1,8 +1,8 @@
 ## 大家好! 我是佳乃! <img src="images/meow_code.gif" height="23"><img src="images/meow_code.gif" height="23"><img src="images/meow_code.gif" height="23">
 
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_zh.md"><img src="images/china-flag.png" height="13"> Chinese</a></td></tr>
+ <tr><td><a href="README.md"><img src="images/us-flag.png" height="16"> English</a></td></tr>
+ <tr><td><a href="README_zh.md"><img src="images/china-flag.png" height="16"> Chinese</a></td></tr>
 </table>
 
 ### <img src="images/party_blob.gif" height="23">&nbsp;关于我
@@ -36,7 +36,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="images/mysql.png" height="32"><img src="images/mongo_db.png" height="32"><img src="images/firebase.png" height="32"><img src="images/gitNew.png" height="32"><img src="images/postman.png" height="32">
 
-### <img src="images/confused_dog.gif" height="23">&nbsp;不断学习
+### <img src="images/confused_dog.gif" height="23">&nbsp;学习计划
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="images/angular.png" height="32"><img src="images/react_native.png" height="32"><img src="images/photoshop.png" height="32"><img src="images/illustrator.png" height="32"><img src="images/adobe_xd.png" height="32">
 
@@ -57,5 +57,5 @@
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=yoshino9397&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/yoshino9397/AboutMe?color=darkorange&logo=github" />
+<img src="https://badges.pufler.dev/visits/yoshino9397/yoshino9397?color=darkorange&logo=github" />
 </p>
