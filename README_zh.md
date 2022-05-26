@@ -54,3 +54,8 @@
     <p align="center">
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshino9397&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=yoshino9397&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/yoshino9397/AboutMe?color=darkorange&logo=github" />
+</p>
