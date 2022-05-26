@@ -20,22 +20,24 @@
    <a href="https://www.instagram.com/yoshinoyayama/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<hr/>
+
 ### <img src="images/cat_type.gif" height="23">&nbsp;Main Tech Knowledge
 
 ### &nbsp;&nbsp;&nbsp;Frontend:
 
-&nbsp;&nbsp;&nbsp;<img src="images/html5.png" height="30"><img src="images/css.jpg" height="30"><img src="images/sass.png" height="30"><img src="images/javascript.png" height="30"><img src="images/react.png" height="30"><img src="images/redux.png" height="30"><img src="images/typescript.png" height="30"><img src="images/jquery.png" height="30"><img src="images/bootstrap.png" height="30">
+&nbsp;&nbsp;&nbsp;<img src="images/html5.png" height="32"><img src="images/css.jpg" height="32"><img src="images/sass.png" height="32"><img src="images/javascript.png" height="32"><img src="images/react.png" height="32"><img src="images/redux.png" height="32"><img src="images/typescript.png" height="32"><img src="images/jquery.png" height="32"><img src="images/bootstrap.png" height="32">
 
 ### &nbsp;&nbsp;&nbsp;Backend:
 
-&nbsp;&nbsp;&nbsp;<img src="images/nodejs.png" height="30"><img src="images/express.png" height="30"><img src="images/socket-io.png" height="30">
+&nbsp;&nbsp;&nbsp;<img src="images/nodejs.png" height="32"><img src="images/express.png" height="32"><img src="images/socket-io.png" height="32">
 
 ### &nbsp;&nbsp;&nbsp;Database etc:
 
-&nbsp;&nbsp;&nbsp;<img src="images/mysql.png" height="30"><img src="images/mongo_db.png" height="30"><img src="images/firebase.png" height="30"><img src="images/git.png" height="30"><img src="images/postman.png" height="30">
+&nbsp;&nbsp;&nbsp;<img src="images/mysql.png" height="32"><img src="images/mongo_db.png" height="32"><img src="images/firebase.png" height="32"><img src="images/git.png" height="32"><img src="images/postman.png" height="32">
 
-
+<hr/>
 
 ### <img src="images/confused_dog.gif" height="23">&nbsp;Other Knowledge, Always Learning
 
-&nbsp;&nbsp;&nbsp;<img src="images/angular.png" height="30"><img src="images/react_native.png" height="30"><img src="images/photoshop.png" height="30"><img src="images/illustrator.png" height="30"><img src="images/adobe_xd.png" height="30">
+&nbsp;&nbsp;&nbsp;<img src="images/angular.png" height="32"><img src="images/react_native.png" height="32"><img src="images/photoshop.png" height="32"><img src="images/illustrator.png" height="32"><img src="images/adobe_xd.png" height="32">
