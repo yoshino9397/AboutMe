@@ -1,4 +1,3 @@
-
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
@@ -74,12 +73,12 @@
 ![PMBOK](https://img.shields.io/badge/PMBOK-DD0031.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 
-<!-- 
-Java, JSF, Primefaces, Angular, Spring, Springboot, JPA/Hibernate. 
+<!--
+Java, JSF, Primefaces, Angular, Spring, Springboot, JPA/Hibernate.
 Flutter, GetX, BLoC, MobX.
 GitHub, GitLab, Docker, Ansible
 Kotlin, Firebase.
-Ant, Maven, Gradle, 
+Ant, Maven, Gradle,
 VSCode, Eclipse, IntelliJ IDEA.
 HTML, CSS, JavaScript, TypeScript.
 postgresql, pgadmin, mysql, sqlite.
@@ -89,17 +88,17 @@ linux
 -->
 </details>
 
-<!-- 
+<!--
 jquery, sass
 nestjs, nodejs, redis, nginx,
 rest, graphql, grpc
 apache kafka,
 google cloud plataform, google app engine, aws
-oracle, mariadb, mongodb, 
+oracle, mariadb, mongodb,
 Kubernates, puppet, github actions
 python, c, cpp, arduino
 php, photoshop
-blockchain, cryptocurrencies, cryptography, bitcoin, ethereum 
+blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 -->
 
 <details>
@@ -147,7 +146,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=nightowl" />
     </p>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=brunotacca&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotacca&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=brunotacca&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /></p> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotacca&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
 </details>
 
