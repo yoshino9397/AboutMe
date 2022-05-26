@@ -34,7 +34,7 @@
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;数据库等:
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/mysql.png" height="32"><img src="images/mongo_db.png" height="32"><img src="images/firebase.png" height="32"><img src="images/git.png" height="32"><img src="images/postman.png" height="32">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/mysql.png" height="32"><img src="images/mongo_db.png" height="32"><img src="images/firebase.png" height="32"><img src="images/gitNew.png" height="32"><img src="images/postman.png" height="32">
 
 ### <img src="images/confused_dog.gif" height="23">&nbsp;不断学习
 
