@@ -1,8 +1,8 @@
 ## Hi there! I'm Yoshino! <img src="images/meow_code.gif" height="23"><img src="images/meow_code.gif" height="23"><img src="images/meow_code.gif" height="23">
 
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="16"> English</a></td></tr>
- <tr><td><a href="README_zh.md"><img src="images/china-flag.png" height="16"> Chinese</a></td></tr>
+ <tr><td><a href="README.md"><img src="images/us-flag.png" height="20"> English</a></td></tr>
+ <tr><td><a href="README_zh.md"><img src="images/china-flag.png" height="14"> Chinese</a></td></tr>
 </table>
 
 ### <img src="images/party_blob.gif" height="23">&nbsp;About Me
