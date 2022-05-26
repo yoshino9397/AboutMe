@@ -43,13 +43,14 @@
 <hr/>
 
 
-<details>
-  <summary><img src="images/gears.gif" height="32">&nbsp;<b>GitHub Statistics</b></summary>
+### <img src="images/gears.gif" height="32">&nbsp;GitHub Statistics
   <br/>
     <p align="center">
         <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=yoshino9397&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D" />
     </p>
     <p align="center">
-        <img height="170px" src="https://github-readme-stats.vercel.app/api?username=yoshino9397&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshino9397&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+        <img height="170px" src="https://github-readme-stats.vercel.app/api?username=yoshino9397&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
     </p>
-</details>
+    <p align="center">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshino9397&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
