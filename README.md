@@ -21,8 +21,14 @@
 
 
 ### <img src="images/cat_type.gif" height="23">Main tech knowledge
-&nbsp;&nbsp;&nbsp;Frontend:<img src="images/html5.png" height="35"><img src="images/css.png" height="35"><img src="images/sass.png" height="35"><img src="images/javascript.png" height="35"><img src="images/react.png" height="35"><img src="images/typescript.png" height="35"><img src="images/jquery.png" height="35"><img src="images/bootstrap.png" height="35">
+### &nbsp;&nbsp;&nbsp;Frontend:
 
-&nbsp;&nbsp;&nbsp;Backend:<img src="images/node.png" height="35"><img src="images/express.png" height="35"><img src="images/socket-io.png" height="35">
+<img src="images/html5.png" height="30"><img src="images/css.png" height="30"><img src="images/sass.png" height="30"><img src="images/javascript.png" height="30"><img src="images/react.png" height="30"><img src="images/typescript.png" height="30"><img src="images/jquery.png" height="30"><img src="images/bootstrap.png" height="30">
 
-&nbsp;&nbsp;&nbsp;Database:<img src="images/html5.png" height="35"><img src="images/mysql.png" height="35"><img src="images/mongo_db.png" height="35"><img src="images/firebase.png" height="35">
+### &nbsp;&nbsp;&nbsp;Backend:
+
+<img src="images/nodejs.png" height="30"><img src="images/express.png" height="30"><img src="images/socket-io.png" height="30">
+
+### &nbsp;&nbsp;&nbsp;Database:
+
+<img src="images/mysql.png" height="30"><img src="images/mongo_db.png" height="30"><img src="images/firebase.png" height="30">
