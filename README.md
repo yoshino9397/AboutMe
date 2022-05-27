@@ -26,7 +26,7 @@
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Frontend:
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/html5.png" height="32"><img src="images/css.jpg" height="32"><img src="images/sass.png" height="32"><img src="images/javascript.png" height="32"><img src="images/react.png" height="32"><img src="images/redux.png" height="32"><img src="images/typescript.png" height="32"><img src="images/jquery1.png" height="32"><img src="images/bootstrap.png" height="32">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/html5.png" height="32"><img src="images/css.jpg" height="32"><img src="images/sass.png" height="32"><img src="images/javascript.png" height="32"><img src="images/react.png" height="32"><img src="images/redux.png" height="32"><img src="images/typescript.png" height="32"><img src="images/bootstrap.png" height="32"><img src="images/jquery1.png" height="32">
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Backend:
 
