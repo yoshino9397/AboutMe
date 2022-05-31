@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;<img src="images/meow_jp.png" height="20"> &nbsp;日本的法学学士 \
 &nbsp;&nbsp;&nbsp;<img src="images/blob_in_pokeball.gif" height="20"> &nbsp;目前在 CICCC 工作的 MERN 工程 \
 &nbsp;&nbsp;&nbsp;<img src="images/blob-sunglasses.gif" height="20"> &nbsp;我的网站中使用的插图和设计基本上都是由我使用 Clip Studio 绘制的 \
-&nbsp;&nbsp;&nbsp;<img src="images/blob-yes.png" height="20"> &nbsp;热爱语言学和旅游 \
+&nbsp;&nbsp;&nbsp;<img src="images/blob-yes.png" height="20"> &nbsp;热爱语言学和旅游,动画 \
 &nbsp;&nbsp;&nbsp;<img src="images/allo-tongue.gif" height="20"> &nbsp;热衷于解决问题和探索"非常好"的设计 \
 &nbsp;&nbsp;&nbsp;<img src="images/splatblob_rainbow.gif" height="20"> &nbsp;自 2019 年开始编码，在大学期间有 2 年日本公司的实习经验
 
