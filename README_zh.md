@@ -57,5 +57,4 @@
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=yoshino9397&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/yoshino9397/yoshino9397?color=darkorange&logo=github" />
 </p>
