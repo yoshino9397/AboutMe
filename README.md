@@ -7,12 +7,12 @@
 
 ### <img src="images/party_blob.gif" height="23">&nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;<img src="images/meow_jp.png" height="20"> &nbsp;Bachelor of Laws in Japan. \
-&nbsp;&nbsp;&nbsp;<img src="images/blob_in_pokeball.gif" height="20"> &nbsp;Currently working MERN projects at CICCC college in Vancouver. \
+&nbsp;&nbsp;&nbsp;<img src="images/meow_jp.png" height="20"> &nbsp;Bachelor of Laws in Japan and Diploma of Engineering in Vancouver. \
+&nbsp;&nbsp;&nbsp;<img src="images/blob_in_pokeball.gif" height="20"> &nbsp;Currently working MERN projects in deep. \
 &nbsp;&nbsp;&nbsp;<img src="images/blob-sunglasses.gif" height="20"> &nbsp;The illustrations and designs used in my website are basically drawn by me using Clip Studio. \
 &nbsp;&nbsp;&nbsp;<img src="images/blob-yes.png" height="20"> &nbsp;Love for linguistics and travel,anime.\
 &nbsp;&nbsp;&nbsp;<img src="images/allo-tongue.gif" height="20"> &nbsp;Passionate with problem solving and exploration of "GOOD" design. \
-&nbsp;&nbsp;&nbsp;<img src="images/splatblob_rainbow.gif" height="20"> &nbsp;Coding since 2019 with 2 years of internship experience in japanese company while attending university.
+&nbsp;&nbsp;&nbsp;<img src="images/splatblob_rainbow.gif" height="20"> &nbsp;Coding since 2019 with 3 years of a start-up company in Japan as a front-end developer. 
 
 <p align="center">
   <a href="mailto:yosino8512@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;

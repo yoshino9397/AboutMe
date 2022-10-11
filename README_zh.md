@@ -7,12 +7,12 @@
 
 ### <img src="images/party_blob.gif" height="23">&nbsp;关于我
 
-&nbsp;&nbsp;&nbsp;<img src="images/meow_jp.png" height="20"> &nbsp;日本的法学学士 \
-&nbsp;&nbsp;&nbsp;<img src="images/blob_in_pokeball.gif" height="20"> &nbsp;目前在 CICCC大学 工作的 MERN 工程 \
+&nbsp;&nbsp;&nbsp;<img src="images/meow_jp.png" height="20"> &nbsp;在日本获得法律学士学位，在温哥华获得工程文凭。 \
+&nbsp;&nbsp;&nbsp;<img src="images/blob_in_pokeball.gif" height="20"> &nbsp;目前正在深入开展MERN项目\
 &nbsp;&nbsp;&nbsp;<img src="images/blob-sunglasses.gif" height="20"> &nbsp;我的网站中使用的插图和设计基本上都是由我使用 Clip Studio 绘制的 \
 &nbsp;&nbsp;&nbsp;<img src="images/blob-yes.png" height="20"> &nbsp;热爱语言学和旅游,动画 \
 &nbsp;&nbsp;&nbsp;<img src="images/allo-tongue.gif" height="20"> &nbsp;热衷于解决问题和探索"非常好"的设计 \
-&nbsp;&nbsp;&nbsp;<img src="images/splatblob_rainbow.gif" height="20"> &nbsp;自 2019 年开始编码，在大学期间有 2 年日本公司的实习经验
+&nbsp;&nbsp;&nbsp;<img src="images/splatblob_rainbow.gif" height="20"> &nbsp;自2019年开始编码，在日本的一家初创公司担任前端开发员3年
 
 <p align="center">
   <a href="mailto:yosino8512@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
