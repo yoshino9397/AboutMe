@@ -51,9 +51,6 @@
     <p align="center">
         <img height="170px" src="https://github-readme-stats.vercel.app/api?username=yoshino9397&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
     </p>
-    <p align="center">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshino9397&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-    </p>
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=yoshino9397&style=plastic&label=Views"><img>
