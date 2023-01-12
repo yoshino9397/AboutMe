@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;<img src="images/blob-sunglasses.gif" height="20"> &nbsp;The illustrations and designs used in my website are basically drawn by me using Clip Studio. \
 &nbsp;&nbsp;&nbsp;<img src="images/blob-yes.png" height="20"> &nbsp;Love for linguistics and travel,anime.\
 &nbsp;&nbsp;&nbsp;<img src="images/allo-tongue.gif" height="20"> &nbsp;Passionate with problem solving and exploration of "GOOD" design. \
-&nbsp;&nbsp;&nbsp;<img src="images/splatblob_rainbow.gif" height="20"> &nbsp;Coding since 2019 with 3 years of a start-up company in Japan as a front-end developer. 
+&nbsp;&nbsp;&nbsp;<img src="images/splatblob_rainbow.gif" height="20"> &nbsp;Coding since 2019 with 3 years of a start-up company in Japan as a front-end developer.
 
 <p align="center">
   <a href="mailto:yosino8512@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,7 +49,7 @@
         <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=yoshino9397&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D" />
     </p>
     <p align="center">
-        <img height="170px" src="https://github-readme-stats.vercel.app/api?username=yoshino9397&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
+        <img height="170px" src="https://github-readme-stats.vercel.app/api?username=yoshino9397&&show_icons=true&theme=synthwave" />
     </p>
 
 <p align="right">

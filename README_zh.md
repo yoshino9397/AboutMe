@@ -8,11 +8,11 @@
 ### <img src="images/party_blob.gif" height="23">&nbsp;关于我
 
 &nbsp;&nbsp;&nbsp;<img src="images/meow_jp.png" height="20"> &nbsp;在日本获得法律学士学位，在温哥华获得工程文凭。 \
-&nbsp;&nbsp;&nbsp;<img src="images/blob_in_pokeball.gif" height="20"> &nbsp;目前正在深入开展MERN项目\
+&nbsp;&nbsp;&nbsp;<img src="images/blob_in_pokeball.gif" height="20"> &nbsp;目前正在深入开展 MERN 项目\
 &nbsp;&nbsp;&nbsp;<img src="images/blob-sunglasses.gif" height="20"> &nbsp;我的网站中使用的插图和设计基本上都是由我使用 Clip Studio 绘制的 \
 &nbsp;&nbsp;&nbsp;<img src="images/blob-yes.png" height="20"> &nbsp;热爱语言学和旅游,动画 \
 &nbsp;&nbsp;&nbsp;<img src="images/allo-tongue.gif" height="20"> &nbsp;热衷于解决问题和探索"非常好"的设计 \
-&nbsp;&nbsp;&nbsp;<img src="images/splatblob_rainbow.gif" height="20"> &nbsp;自2019年开始编码，在日本的一家初创公司担任前端开发员3年
+&nbsp;&nbsp;&nbsp;<img src="images/splatblob_rainbow.gif" height="20"> &nbsp;自 2019 年开始编码，在日本的一家初创公司担任前端开发员 3 年
 
 <p align="center">
   <a href="mailto:yosino8512@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,7 +49,7 @@
         <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=yoshino9397&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D" />
     </p>
     <p align="center">
-        <img height="170px" src="https://github-readme-stats.vercel.app/api?username=yoshino9397&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
+        <img height="170px" src="https://github-readme-stats.vercel.app/api?username=yoshino9397&&show_icons=true&theme=synthwave" />
     </p>
 
 <p align="right">
